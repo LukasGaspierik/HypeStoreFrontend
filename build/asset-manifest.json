@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/LukasGaspierik/HypeStoreFrontend/static/css/main.f40a095c.css",
-    "main.js": "/LukasGaspierik/HypeStoreFrontend/static/js/main.a14576a2.js",
-    "static/js/787.d7232bc1.chunk.js": "/LukasGaspierik/HypeStoreFrontend/static/js/787.d7232bc1.chunk.js",
-    "static/media/streetwear2.jpg": "/LukasGaspierik/HypeStoreFrontend/static/media/streetwear2.613ee6f18f67a4515ced.jpg",
-    "static/media/streetwear.jpg": "/LukasGaspierik/HypeStoreFrontend/static/media/streetwear.e60013eacdacbf448f92.jpg",
-    "static/media/streetwear3.jpg": "/LukasGaspierik/HypeStoreFrontend/static/media/streetwear3.18454b4f0225699a75e0.jpg",
-    "static/media/pic.png": "/LukasGaspierik/HypeStoreFrontend/static/media/pic.576e7907f511285efe5b.png",
-    "index.html": "/LukasGaspierik/HypeStoreFrontend/index.html",
-    "main.f40a095c.css.map": "/LukasGaspierik/HypeStoreFrontend/static/css/main.f40a095c.css.map",
-    "main.a14576a2.js.map": "/LukasGaspierik/HypeStoreFrontend/static/js/main.a14576a2.js.map",
-    "787.d7232bc1.chunk.js.map": "/LukasGaspierik/HypeStoreFrontend/static/js/787.d7232bc1.chunk.js.map"
+    "main.css": "/HypeStoreFrontend/static/css/main.f40a095c.css",
+    "main.js": "/HypeStoreFrontend/static/js/main.3f60fb1d.js",
+    "static/js/787.d7232bc1.chunk.js": "/HypeStoreFrontend/static/js/787.d7232bc1.chunk.js",
+    "static/media/streetwear2.jpg": "/HypeStoreFrontend/static/media/streetwear2.613ee6f18f67a4515ced.jpg",
+    "static/media/streetwear.jpg": "/HypeStoreFrontend/static/media/streetwear.e60013eacdacbf448f92.jpg",
+    "static/media/streetwear3.jpg": "/HypeStoreFrontend/static/media/streetwear3.18454b4f0225699a75e0.jpg",
+    "static/media/pic.png": "/HypeStoreFrontend/static/media/pic.576e7907f511285efe5b.png",
+    "index.html": "/HypeStoreFrontend/index.html",
+    "main.f40a095c.css.map": "/HypeStoreFrontend/static/css/main.f40a095c.css.map",
+    "main.3f60fb1d.js.map": "/HypeStoreFrontend/static/js/main.3f60fb1d.js.map",
+    "787.d7232bc1.chunk.js.map": "/HypeStoreFrontend/static/js/787.d7232bc1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f40a095c.css",
-    "static/js/main.a14576a2.js"
+    "static/js/main.3f60fb1d.js"
   ]
 }

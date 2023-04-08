@@ -1,7 +1,7 @@
 {
   "name": "hypestore",
-  "version": "1.0.0",
-  "homepage": "https://lukasgaspierik.github.io/HypeStoreFrontend/",
+  "version": "0.1.0",
+  "homepage": "https://lukasgaspierik.github.io/HypeStoreFrontend",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
