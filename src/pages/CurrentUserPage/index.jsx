@@ -5,6 +5,7 @@ import axios from 'axios';
 import './CurrentUserPage.css';
 import { Link } from "react-router-dom";
 import ProfileImage from "../../components/ProfilImage";
+import {FaFacebookSquare, FaInstagram} from 'react-icons/fa';
 
 const CurrentUserPage = () =>{
     const [currentUser, setCurrentUser] = useState('');
@@ -59,6 +60,14 @@ const CurrentUserPage = () =>{
                             </div>
                             <div className='Profile-Number1'>
                                 {currentUser.pnumber}
+                            </div>
+                            <div className="socials">
+                                <a className="instagram" href="" title="Instagram">
+                                <span className="instagramicon"><FaInstagram></FaInstagram></span>
+                                </a>
+                                <a className="facebook" href="" title="Facebook">
+                                <span className="facebookicon"><FaFacebookSquare></FaFacebookSquare></span>
+                                </a>
                             </div>
                         </div>
                     </div>
